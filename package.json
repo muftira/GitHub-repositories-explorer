@@ -2,7 +2,7 @@
   "name": "github-user-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://muftira.github.io/atask-github-search-users",
+  "homepage": "https://muftira.github.io/GitHub-repositories-explorer",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
