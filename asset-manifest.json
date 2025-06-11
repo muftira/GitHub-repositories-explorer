@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/atask-github-search-users/static/css/main.b2d8c1b3.css",
-    "main.js": "/atask-github-search-users/static/js/main.1ec3fa74.js",
-    "static/js/453.00f4d877.chunk.js": "/atask-github-search-users/static/js/453.00f4d877.chunk.js",
-    "index.html": "/atask-github-search-users/index.html",
-    "main.b2d8c1b3.css.map": "/atask-github-search-users/static/css/main.b2d8c1b3.css.map",
-    "main.1ec3fa74.js.map": "/atask-github-search-users/static/js/main.1ec3fa74.js.map",
-    "453.00f4d877.chunk.js.map": "/atask-github-search-users/static/js/453.00f4d877.chunk.js.map"
+    "main.css": "/GitHub-repositories-explorer/static/css/main.b2d8c1b3.css",
+    "main.js": "/GitHub-repositories-explorer/static/js/main.7ba989e6.js",
+    "static/js/453.00f4d877.chunk.js": "/GitHub-repositories-explorer/static/js/453.00f4d877.chunk.js",
+    "index.html": "/GitHub-repositories-explorer/index.html",
+    "main.b2d8c1b3.css.map": "/GitHub-repositories-explorer/static/css/main.b2d8c1b3.css.map",
+    "main.7ba989e6.js.map": "/GitHub-repositories-explorer/static/js/main.7ba989e6.js.map",
+    "453.00f4d877.chunk.js.map": "/GitHub-repositories-explorer/static/js/453.00f4d877.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2d8c1b3.css",
-    "static/js/main.1ec3fa74.js"
+    "static/js/main.7ba989e6.js"
   ]
 }
